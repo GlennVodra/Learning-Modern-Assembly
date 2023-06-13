@@ -1,5 +1,5 @@
 # Learning-x86
-Here I'm learning x86\
+Here I'm learning x86
 
 Reference: https://www.youtube.com/playlist?list=PLXIsc9dApNXogHjSTIqbhvYBw5WODn7Yb\
 
