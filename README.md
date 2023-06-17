@@ -9,7 +9,7 @@ Reference: https://www.youtube.com/playlist?list=PLXIsc9dApNXogHjSTIqbhvYBw5WODn
 * To lowercase subroutine
 * Display 32 and 64 bit reg in hex using MessageBoxA
 * Moving numbers arround regesters and memory
-* ADD SUB MUL DIV
+* ADD SUB MUL DIV Shifting
 * Comparisons
 * Cond/UnCond Jumping
 * Stack operations
