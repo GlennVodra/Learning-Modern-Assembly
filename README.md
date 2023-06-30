@@ -1,7 +1,7 @@
 # Learning-Modern-Assembly
 Here I'm learning Modern Assembly, starting at x86 and working up to everything else. 
 
-Reference: https://www.youtube.com/playlist?list=PL0C5C980A28FEE68D 
+Reference: https://www.youtube.com/playlist?list=PLKK11Ligqitg9MOX3-0tFT1Rmh3uJp7kA
 
 ## Topics Introduced in "Tutorial"
 Reference: https://www.youtube.com/playlist?list=PLXIsc9dApNXogHjSTIqbhvYBw5WODn7Yb
